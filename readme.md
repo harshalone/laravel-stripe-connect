@@ -11,6 +11,8 @@
 
 Create a marketplace application with this helper for [Stripe Connect](https://stripe.com/connect).
 
+### Please use this repo: https://github.com/ExpDev07/laravel-cashier-stripe-connect
+
 ## Installation
 
 Install via composer
